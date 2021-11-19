@@ -40,7 +40,8 @@ Credits
 * Keerthi prasanna Sa 
 * Kiran kumar R
 
-* Thanks to our Prof. Sagar pandey sir, who gave the spark to fire up this project.
+* Thanks to our Prof. Sagar pandey sir, who gave the spark to fire up this project. 
+   * You can check some of his works here 👉 https://www.researchgate.net/profile/Sagar-Pande-2
 * Thanks to all the sources(Stackoverflow, youtube, Python.org etc) that we refered too.
 
 Thank you and have a great day :)
