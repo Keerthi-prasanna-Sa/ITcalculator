@@ -18,13 +18,13 @@ No need any additional libraries, we only used python standard libraries(tkinter
 Installations
 =============
 
-If you don't have python installed on your computer follow the steps below:
-1. Open your Web browser and go to https://python.org
-2. Download the python installer as per you device on which working(os,system spec)
-3. After downloading the installer successfully, install it on your device.
-4. To check the installation:
-    * In macOS -> Open Terminal -> Type "python3 --version" if you installed it properly the version detail will appear. That's it installation completed.
-    * In windows -> Open Command prompt -> Type "python --version" if you installed it properly the version detail will appear. That's it installation completed.
+* If you don't have python installed on your computer follow the steps below:
+   1. Open your Web browser and go to https://python.org
+   2. Download the python installer as per you device on which working(os,system spec)
+   3. After downloading the installer successfully, install it on your device.
+   4. To check the installation:
+      * In macOS -> Open Terminal -> Type "python3 --version" if you installed it properly the version detail will appear. That's it installation completed.
+      * In windows -> Open Command prompt -> Type "python --version" if you installed it properly the version detail will appear. That's it installation completed.
 
 * The project don't need any installations other then python. 
 * Simply download the code, run IDLE and open the main.py file and run it that's all(make sure you downloaded all the files from the src folder). 
