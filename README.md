@@ -12,7 +12,7 @@ Bonus! You will get to know some intresting fact about Indian Income Tax
 Requirements
 ============
 
-Python 3.6 and above(recommended)
+Python 3.6 and above(recommended).
 No need any additional libraries, we only used python standard libraries(tkinter & webbrowser)
 
 Installations
@@ -26,8 +26,9 @@ If you don't have python installed on your computer follow the steps below:
     * In macOS -> Open Terminal -> Type "python3 --version" if you installed it properly the version detail will appear. That's it installation completed.
     * In windows -> Open Command prompt -> Type "python --version" if you installed it properly the version detail will appear. That's it installation completed.
 
-The project don't need any installations other then python. Simply download the code, run IDLE and open the main.py file and run it that all(make sure you 
-downloaded all the files from the src folder)
+* The project don't need any installations other then python. 
+* Simply download the code, run IDLE and open the main.py file and run it that's all(make sure you downloaded all the files from the src folder). 
+* If you need to understand the code very well, we recommend to use Some IDE(such as Pycharm, Vscode etc,.) that helps with color coding and search functionality and other features which helps you to understand the code much easier.
 
 Usage
 =====
